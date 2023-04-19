@@ -1,6 +1,6 @@
 # reinforce23_labs
 
-  # AWSJAMS lab templates 
+# AWSJAMS lab templates 
 <!---Foundation for 2023 Training/Demos, etc
 Ready to go.
  --->
@@ -35,7 +35,7 @@ These labs are designed to be completed in sequence, and the full set of instruc
 
 __**Ensure your region is US East (N. Virginia)**__
 
-## Task 01
+## AWSJams Tasks
 
 Task 01 - [Onboarding](https://github.com/RDev-TechAlliance/reinforce23_labs/blob/docs/Task%201)
 
